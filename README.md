@@ -12,6 +12,8 @@
 2. Artem Dzaga handled the backend of the Telegram bot, the integration of the trained neural network, and the creation of the architecture.
 3. Ilya Stulov was in charge of problem definition, collecting metrics, system evaluation, and the frontend of the Telegram bot.
 
+![paws](https://github.com/user-attachments/assets/6e31e3d7-4a90-49e8-9a68-123a6e2368ea)
+
 
 ## How can this bot help?
 Imagine you’re texting someone you have romantic feelings for. The conversation feels a bit dry, but since you’re too busy thinking about how wonderful this person is, you can’t come up with a joke to lighten things up. That’s where our bot comes in. You type in the beginning of a story you were discussing with your partner, and it generates a joke. You send it to your love interest, and bingo! They smile, creating a happy and fun association with you.
@@ -49,6 +51,13 @@ However, some negative feedback highlighted that the bot occasionally struggled 
 
 In the future, with a larger user base, we plan to analyze user experience metrics (like session activity) and bot quality metrics (such as the frequency of incorrect responses).
 
+# How does it work? Examples!
 
+![tg_image_1325755799](https://github.com/user-attachments/assets/b83f3f19-d2fe-4561-bf2b-3a34daf0234f)
+![tg_image_1524840253](https://github.com/user-attachments/assets/ed8e6302-940b-42a0-8fb7-4e69738414ad)
+![tg_image_755935767](https://github.com/user-attachments/assets/08da2cd7-e379-47c9-afe4-dcb334034302)
+![tg_image_764635612](https://github.com/user-attachments/assets/7242ef8c-9282-410a-b571-62d4e13bd411)
+![tg_image_2797853294](https://github.com/user-attachments/assets/ffd59ef3-fa68-45f5-a291-842e2112cb72)
 
+# See the files for details! 
 
