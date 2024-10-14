@@ -1,4 +1,4 @@
-# ML_Humoreski_bot
+# ML Humoreski bot
 
 ## Team:
 
